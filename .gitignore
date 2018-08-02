@@ -1,0 +1,6 @@
+*.zip
+*.csv
+/train_100_events/
+/test/
+sample_submission.csv
+detectors.csv
