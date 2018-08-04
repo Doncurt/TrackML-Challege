@@ -5,3 +5,5 @@
 sample_submission.csv
 detectors.csv
 .DS_Store
+.ipynb_checkpoints
+*.swp
